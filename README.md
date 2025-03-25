@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman S. Khallaf!</h1>  
-<h3 align="center">🚀 Cross-Platform Mobile Developer | React Native | Flutter | Full-Stack</h3>  
+<h3 align="center">🚀 Cross-Platform Mobile Developer | React Native | Flutter | Angular | Full-Stack</h3>  
 
 <p align="center">
   💡 Passionate about crafting high-performance mobile & web applications. <br>
   🏆 Top graduate of the ITI Mobile Cross-Platform program. <br>
-  🔧 Expert in React Native, Flutter, Django, Node.js, Firebase & AWS. <br>
+  🔧 Expert in React Native, Flutter, Angular, Django, Node.js, Firebase & AWS. <br>
   📈 Focused on real-time apps, API optimization & seamless user experiences.
 </p>  
 
@@ -12,6 +12,7 @@
 
 ## 🚀 **What I Do**
 - 📲 **Mobile Development:** Scalable, cross-platform apps with smooth UI/UX.  
+- 🌐 **Web Development:** Dynamic, fast, and secure web apps with Angular & React.  
 - ⚡ **Performance Optimization:** Faster load times & enhanced responsiveness.  
 - 🤖 **Automation & AI:** Leveraging Python for automation & AI-driven features.  
 - 💼 **Freelancing & Open Source:** Contributing to impactful projects & collaborations.  
@@ -25,6 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 
