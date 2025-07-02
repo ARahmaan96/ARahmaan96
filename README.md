@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelrahman S. Khallaf!</h1>  
-<h3 align="center">🚀 Cross-Platform Mobile Developer | React Native | Flutter | Angular | Full-Stack</h3>  
+<h3 align="center">🚀 Cross-Platform Mobile Developer | React Native | React | NextJS | Full-Stack</h3>  
 
 <p align="center">
   💡 Passionate about crafting high-performance mobile & web applications. <br>
