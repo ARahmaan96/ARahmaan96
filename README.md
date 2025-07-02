@@ -4,7 +4,7 @@
 <p align="center">
   💡 Passionate about crafting high-performance mobile & web applications. <br>
   🏆 Top graduate of the ITI Mobile Cross-Platform program. <br>
-  🔧 Expert in React Native, Flutter, Angular, Django, Node.js, Firebase & AWS. <br>
+  🔧 Expert in React Native, React, NextJS, Node.js, Firebase & AWS. <br>
   📈 Focused on real-time apps, API optimization & seamless user experiences.
 </p>  
 
